@@ -22,7 +22,7 @@ classifiers = [
 
 # Requirements
 [tool.poetry.dependencies]
-django = "1.10.0"
+django = "1.11.29"
 tomlkit = "^0.6.0"
 
 [tool.poetry.scripts]
